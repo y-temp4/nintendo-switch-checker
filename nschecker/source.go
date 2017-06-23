@@ -29,12 +29,12 @@ var Sources = []Source{
 	{
 		Name:        "Joshin - Nintendo Switch 本体【Joy-Con(L)/(R) グレー】",
 		URL:         "http://joshinweb.jp/game/40519/4902370535709.html",
-		SoldOutText: `<span class="fsL"><font color="blue"><b>販売休止中です</b></font><br></span>`,
+		SoldOutText: `<font color="blue"><b>販売休止中です</b></font>`,
 	},
 	{
 		Name:        "Joshin - Nintendo Switch 本体【Joy-Con(L) ネオンブルー/(R) ネオンレッド】",
 		URL:         "http://joshinweb.jp/game/40519/4902370535716.html",
-		SoldOutText: `<span class="fsL"><font color="blue"><b>販売休止中です</b></font><br></span>`,
+		SoldOutText: `<font color="blue"><b>販売休止中です</b></font>`,
 	},
 	{
 		Name:        "omni7(7net) - Nintendo Switch Joy-Con (L) / (R) グレー",
